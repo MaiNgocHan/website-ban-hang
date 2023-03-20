@@ -1,0 +1,44 @@
+footer{background-image: url('../images/footer-background.png');}
+.w-15{width: 15%;}
+a{text-decoration: none;}
+.menu{background-color: 427400; height: auto}
+.item-active{color: #fff!important;}
+.item-active:hover{ text-decoration: none}
+.menu-item{color: #fff; opacity: 0.5}
+.menu-item:hover{color: #fff!important; opacity: 0.85; text-decoration: none;}
+.pet-type{border: 1px solid green; 
+    padding: 40px 30px 12px 30px;
+    border-radius: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;}
+.pet-type:hover{color: black;filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));}
+.pet-type-active{border:2px solid #427400}
+.filter-shadown{filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));}
+.h-450{height: 450px!important}
+.line-green{background: #427400; height: 2px}
+.left-category{
+    border: 1px solid #C4C4C4;
+    font-size: 24px;
+    text-decoration: none;
+    list-style: none;
+    background-color: #427400;
+    padding-right: 10%;}
+.item-cate-active{
+    color:#427400!important; 
+    padding: 2px -30px 2px 10p}
+.left-category li{padding: 5% 0;border-radius: 5px}
+.left-category li a{margin-left: 3%;color:#fff}
+.left-category li a:hover{text-decoration: none;}
+.background-white{background-color: #fff}
+.item-product{padding: 2% ; border: 1px solid #C4C4C4; border-radius: 7px; margin: 0 1%;}
+.item-product a:hover{text-decoration: none;}
+.name-product{color: black}
+.cost-product{color:#D61F36; font-weight:bold}
+.rating-product i{color: #FFAC30;}
+.input-gmail{color: #A7A6A6; border-radius: 5px; box-shadow: none; border: none;
+font-size: 12px; padding: 10px 30% 10px 10px}
+.btn-submit{background-color: #0E8931; color: #fff; border: none; padding: 10px 20px; border-radius: 5px}
+.training_certification{ color: #FFFFFF;font-family: Roboto; font-style: italic; font-weight: bold; font-size: 75px; line-height: 88px; bottom: 500px}
+.background-white{background: white; margin-left: 10%; margin-right:10%; margin-top: 20% ;}
+.absolute{position: absolute;}

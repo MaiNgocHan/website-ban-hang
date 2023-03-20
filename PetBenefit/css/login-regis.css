@@ -1,0 +1,31 @@
+footer{background-image: url('../images/footer-background.png');}
+.w-15{width: 15%;}
+a{text-decoration: none;}
+.menu{background-color: 427400; height: auto}
+.item-active{color: #fff!important;}
+.item-active:hover{ text-decoration: none}
+.menu-item{color: #fff; opacity: 0.5}
+.menu-item:hover{color: #fff!important; opacity: 0.85; text-decoration: none;}  
+.bg-login{filter: brightness(50%);
+    position: absolute;
+}
+.bg-logo-login{position:relative;top:30%}
+.login-title{
+    font-style: normal;
+    font-weight: bold;color: #598223;}
+.input-login{border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding:10px;
+    width: 100%;}
+a:hover{color: #598223!important}
+.btn-login{border:none;background: #598223;
+    border-radius: 10px;
+    padding:10px;
+    color: #FFFFFF;}
+.btn-acc{
+    background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 30px;
+padding: 5px;
+}
